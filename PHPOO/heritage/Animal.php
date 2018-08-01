@@ -7,7 +7,7 @@
 abstract class Animal
 {
     /**
-     * Un attribut uo une méthode protected est accessible depuis les classes filles, masi reste inaccessible en dehors
+     * Un attribut ou une méthode protected est accessible depuis les classes filles, masi reste inaccessible en dehors
      * 
      * @var string
      */
@@ -17,7 +17,7 @@ abstract class Animal
      * Un attribut déclaré private n'est pas accessibledans les classes fille
      * @var type
      */
-    private $rpive = 'attribut propre à Animal';
+    private $prive = 'attribut propre à Animal';
 
     public function identifier()
     {

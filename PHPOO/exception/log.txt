@@ -1,0 +1,9 @@
+[2018-07-31 10:38:21] C:\xampp\htdocs\formation\back\WF3-formation-back\PHPOO\exception\Testeur.php line 7 10 expected, 5 given
+#0 C:\xampp\htdocs\formation\back\WF3-formation-back\PHPOO\exception\index.php(24): Testeur->accepteDix(5)
+#1 {main}
+[2018-07-31 10:38:29] C:\xampp\htdocs\formation\back\WF3-formation-back\PHPOO\exception\Testeur.php line 7 10 expected, 5 given
+#0 C:\xampp\htdocs\formation\back\WF3-formation-back\PHPOO\exception\index.php(24): Testeur->accepteDix(5)
+#1 {main}
+[2018-08-01 11:42:18] C:\xampp\htdocs\formation\back\WF3-formation-back\PHPOO\exception\Testeur.php line 7 10 expected, 5 given
+#0 C:\xampp\htdocs\formation\back\WF3-formation-back\PHPOO\exception\index.php(24): Testeur->accepteDix(5)
+#1 {main}
